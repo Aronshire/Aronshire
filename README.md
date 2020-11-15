@@ -2,10 +2,8 @@
 
 <img src="https://cdn.discordapp.com/attachments/532616581704974345/777620303429763072/2.png">
 
-<!--
-**Aronshire/Aronshire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
