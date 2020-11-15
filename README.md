@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://cdn.discordapp.com/attachments/532616581704974345/777620303429763072/2.png">
+
 <!--
 **Aronshire/Aronshire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
